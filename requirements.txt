@@ -3,3 +3,6 @@ pytube
 openai-whisper 
 google-generativeai 
 python-dotenv
+youtube_transcript_api
+urllib
+os
